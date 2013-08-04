@@ -71,5 +71,5 @@ Implementation of the RESTful web service is supported by [Jersey](https://jerse
 # 5. Acknowledgements
 This application has been developed as a part of the project assignment for the subject [Intelligent Systems](http://is.fon.rs) at the Faculty of Organization Sciences, University of Belgrade.
 
-& 6. Licence
-This software is licensed under the MIT License.
+# 6. Licence
+This software is licensed under the [MIT License](http://opensource.org/licenses/MIT).
